@@ -7,7 +7,26 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid Background="#4b494b">
+        <Button x:Name="button1"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="610,397,0,0" Click="button1_Click" Height="102" Width="252">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Images/cooltext174875593797347.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="button2"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="610,534,0,0" Click="button2_Click" Height="90" Width="252">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Images/cooltext174875693853921.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="button3"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="610,690,0,0" Click="button3_Click" Height="102" Width="252">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Images/cooltext174875745769433.png"/>
+            </Button.Background>
+        </Button>
+        <!--Head -->
+        <Image x:Name="image" HorizontalAlignment="Left" Height="301" Margin="444,50,0,0" VerticalAlignment="Top" Width="592" Source="Images/cooltext174875449736664.png"/>
+
+
 
     </Grid>
 </Page>

@@ -22,9 +22,32 @@ namespace ImageMatcher
     /// </summary>
     public sealed partial class MainPage : Page
     {
+
+
         public MainPage()
         {
+
             this.InitializeComponent();
+        }
+
+
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            App.level = 1;
+            this.Frame.Navigate(typeof(Easy), null);
+        }
+
+        private void button2_Click(object sender, RoutedEventArgs e)
+        {
+            App.level = 2;
+            this.Frame.Navigate(typeof(Easy), null);
+        }
+
+        private void button3_Click(object sender, RoutedEventArgs e)
+        {
+            App.level = 3;
+            this.Frame.Navigate(typeof(Easy), null);
         }
     }
 }
