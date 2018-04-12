@@ -20,7 +20,7 @@ The UWP application should be well designed with a clear purpose in mind. Answer
 “why will the user open this app for a second time?” as part of the design process. What makes your
 app better than the others available offering the same function?
 
-[Full Project spec](https://github.com/dalykeith/uwp-project/blob/master/MAD2-projectSpec.pdf)
+[Full Project spec](https://github.com/dalykeith/uwp_project/blob/master/MAD2-projectSpec.pdf)
 
 ### Prerequisites
 
