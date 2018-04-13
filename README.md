@@ -1,3 +1,6 @@
+### Only 4 commits as was grinding away for while without pushing to git, last comit is showing 52 changes with 764 additions and 25 deletions
+### Cerification pending on the MS store, will update ReadMe with links and images when completed.
+
 # Mobile Application Development 2
 ## Universal Windows Program(UWP)
 
