@@ -1,4 +1,4 @@
-### Only 4 commits as was grinding away for while without pushing to git, last comit is showing 52 changes with 764 additions and 25 deletions
+### Low amount of commits as was grinding away for while without pushing to git, one recent comit is showing 52 changes with 764 additions and 25 deletions, the rest are innitiation, code updates, readme updates(more incoming once published)
 ### Cerification pending on the MS store, will update ReadMe with links and images when completed.
 
 # Mobile Application Development 2
@@ -34,38 +34,26 @@ app better than the others available offering the same function?
 * Clone the repository in terminal/cmd by executing the following command
 
 ```
-git clone https://github.com/dalykeith/uwp-project.git
+git clone https://github.com/dalykeith/uwp_project.git
 ```
 
 * Locate File
 
-```
-cd uwp-project
-```
-
-* Build Program
-
-```
-00000
-```
-
 * Run Program
 
-```
-00000
-```
+Noted it works best in Tablet 12' mode
 
-## Inputs to Output
+## Images
 
-IMAGES
+IMAGES (once published on store)
 
 ###  Live on the Windows store
 
-LINK
+LINK TO DOWNLOAD (once published)
 
-###  Research & Adapted from
+###  Concept
 
-* [X](X) - Y
+All ages game to test users memory on flashing cards. Easy mode counts user attempts, Medium mode you are given a 15 moves to complete, Hard mode you are given 30 seconds to complete. Score will output at end. Future development ideaas includes saving scores on local memory, results page with username showing, potentialy to host online and feature online scorecards for multiple compeditors.
 
 ### License
 
