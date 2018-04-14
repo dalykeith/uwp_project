@@ -34,7 +34,9 @@ app better than the others available offering the same function?
 * Clone the repository in terminal/cmd by executing the following command
 
 ```
+
 git clone https://github.com/dalykeith/uwp_project.git
+
 ```
 
 * Locate File
